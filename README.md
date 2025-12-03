@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Gregory
 
-<!--
-**L3criminio/L3criminio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web development student who enjoys creating clean, modern and efficient digital experiences.  
+I focus on writing simple, readable code and building projects that teach me something new every time.
 
-Here are some ideas to get you started:
+## ♟ Skills & Tools
+**Frontend:** HTML, CSS, JavaScript  
+**Backend:** PHP
+**Database:** SQL
+**Tools:** Git, GitHub, VS Code  
+**Extras:** Notion, basic UI/UX understanding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Working On
+- Strengthening my frontend and backend fundamentals  
+- Building projects to expand my portfolio  
+- Learning modern frameworks and improving my workflow
+
+## 📫 Reach Me
+**gcompastie@gmail.com**
+
+Thanks for checking out my profile
