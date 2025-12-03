@@ -16,6 +16,6 @@ I focus on writing simple, readable code and building projects that teach me som
 - Learning modern frameworks and improving my workflow
 
 ## 📫 Reach Me
-**gcompastie@gmail.com**
+**cgregory2007@gmail.com**
 
 Thanks for checking out my profile
